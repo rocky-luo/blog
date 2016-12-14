@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: Rocky
+subtitle: 身体和灵魂，必须有一个在路上
+description: a coder search for knowledge and money
+author: rocky
+language: cn
 timezone:
 
 # URL
@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo:git@github.com:rocky-luo/rocky-luo.github.io.git
-  branch:master
+  type: git
+  repo: git@github.com:rocky-luo/rocky-luo.github.io.git
+  branch: master
