@@ -3,6 +3,7 @@ title: java8之Lambda表达式
 date: 2016-12-16 14:41:43
 tags: [java8, lambda]
 categories: java8
+comments: true
 ---
 
 java8里面引入了Lambda表达式，最近看了双十一买的《java8实战》里面有关Lambda的内容，列一下有关Lambda的几个要点，有助于其他学习者能快速地入门。
